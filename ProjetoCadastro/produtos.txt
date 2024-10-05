@@ -1,0 +1,4 @@
+casa;69.0
+caneta;12.0
+monitor;550.0
+carro;25000.0
